@@ -10,16 +10,6 @@
 
 ## 脚本列表
 
-### 脚本1
-- **功能描述**: 描述脚本1的功能。
-- **文件夹**: `scripts/script1/`
-- ![脚本1图片](scripts/script1/image.png)
-
-### 脚本2
-- **功能描述**: 描述脚本2的功能。
-- **文件夹**: `scripts/script2/`
-- ![脚本2图片](scripts/script2/image.png)
-
 ### GA4-Report-Data Copier
 - **功能描述**: 该脚本用于复制GA4报告数据，方便数据分析和处理。
 - **文件夹**: `scripts/GA4-Report-Data-Copier/`
